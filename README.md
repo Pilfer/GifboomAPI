@@ -1,9 +1,4 @@
 GifboomAPI
 ==========
 
-Partial class for Gifboom's API
-
-
-#It's worth noting...
-
-That I've got the swagger of a cripple.
+Partial class for Gifboom's API. This is super outdated and terrible. Probably some of the worst hacked together code I've ever written. Ever. Please don't use this,
